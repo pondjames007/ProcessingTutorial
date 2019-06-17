@@ -1,7 +1,7 @@
-# ProcessingTutorial
+# Processing Tutorial
 A basic Processing/Java tutorial for architects in Chinese 基礎Processing/Java教學
 
-Java Tutorial Outline<br>
+## Java Tutorial Outline
 1. Java Basic Concepts<br>
 	1. What is Java?<br>
 	2. Working Environment<br>
@@ -26,7 +26,7 @@ Java Tutorial Outline<br>
 	2. Basic Geometry<br>
 	3. Vector<br>
 
-基礎Processing/Java教學<br>
+## 基礎Processing/Java教學
 1. Java 基礎教學<br>
     1. 什麼是Java?<br>
     2. 工作環境<br>
