@@ -1,5 +1,6 @@
 # Processing Tutorial
-A basic Processing/Java tutorial for architects in Chinese 基礎Processing/Java教學
+A basic Processing/Java tutorial for architects in Chinese<br>
+基礎 Processing/Java 教學
 
 ## Java Tutorial Outline
 1. Java Basic Concepts<br>
